@@ -26,13 +26,13 @@ Tool: GitHub Copilot
 
 Describe what you asked the AI tool to help you understand or troubleshoot.
 
-Response: I asked it what mistakes I had and it gave me hints.
+Response: I asked it what mistakes I had and it gave me hints. 
 
 ## How I Used the Assistance
 
 Explain which suggestions you used, changed, or rejected. Do not paste an entire AI conversation.
 
-Response: I used suggestions to change order of lines of code and also added a header comment.
+Response: I used suggestions to change order of lines of code and also added a header comment. I also had trouble with using the formula and realized I missed the exponent so I asked the Copilot what is used instead of ** since thats Python. After it gave me an idea I realized I have heard of it before.
 
 ## Testing and Verification
 
@@ -44,10 +44,10 @@ Response: It showed less problems and my code worked correctly.
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response: Organizing the output of code to be cleaner.
+Response: Organizing the output of code to be cleaner and remembering I need to use math.pow for exponents.
 
 ## Summary
 
 Provide any additional information about your use of AI for this lab.
 
-Response:
+Response: I think sometimes it has given more information than expected and other times it is good where it doesn't tell you exactly the answer.
